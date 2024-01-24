@@ -1,4 +1,5 @@
-{
+git rm 6.1_lab_notebook_jupyter.txt
+git commit -m "remove 6.1_lab_notebook_jupyter.txt"{
  "cells": [
   {
    "cell_type": "code",
